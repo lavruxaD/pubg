@@ -1,0 +1,16 @@
+@import "vars"; /* переменные */
+@import "fonts"; /* шрифты */
+@import "reset"; /* сброс стилей */
+@import "libs"; /* подключение библиотеки */
+@import "global"; /* основные стили */
+
+@import "header";
+@import "function";
+@import "comments";
+@import "tarif";
+@import "questions";
+@import "footer";
+
+
+
+@import "media"; /* стили под адаптив сайта */

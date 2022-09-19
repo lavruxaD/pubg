@@ -1,0 +1,16 @@
+$def59: #2E3A59;
+$defff: #ffffff;
+$def82: #828282;
+$def72: #727272;
+$deffe: #0AA6FE;
+$defe5: #E5E5E5;
+$defaa: #AAAAAA;
+
+$bgff: #F5F9FF; 
+
+@function max($numbers...) {
+  @return m#{a}x(#{$numbers});
+}
+@function min($numbers...) {
+  @return m#{i}n(#{$numbers	});
+}
